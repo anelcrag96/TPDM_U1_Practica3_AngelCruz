@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:columnCount="3"
+    android:padding="15dp"
+    android:rowCount="5"
+
+    tools:context=".Main4Activity">
+
+    <ImageView android:src="@drawable/i1" android:paddingRight="7dp"/>
+
+    <ImageView android:src="@drawable/i2" android:paddingRight="7dp" />
+
+    <ImageView android:src="@drawable/i3" android:paddingRight="7"/>
+
+    <ImageView android:src="@drawable/i4" />
+
+    <ImageView android:src="@drawable/i5" />
+
+    <ImageView android:src="@drawable/i6" />
+
+    <ImageView android:src="@drawable/i7" />
+
+    <ImageView android:src="@drawable/i8" />
+
+    <ImageView android:src="@drawable/i9" />
+
+    <ImageView android:src="@drawable/i10" />
+
+    <ImageView android:src="@drawable/i11" />
+
+    <ImageView android:src="@drawable/i12" />
+
+    <ImageView android:src="@drawable/i13" />
+
+    <ImageView android:src="@drawable/i14" />
+
+    <ImageView android:src="@drawable/i15" />
+
+    <ImageView android:src="@drawable/i16" />
+
+    <ImageView android:src="@drawable/i17" />
+
+    <ImageView android:src="@drawable/i18" />
+</GridLayout>
