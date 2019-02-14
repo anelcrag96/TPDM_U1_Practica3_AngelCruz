@@ -6,44 +6,99 @@
     android:layout_height="match_parent"
     android:background="#000000"
     android:columnCount="3"
-    android:padding="15dp"
     android:rowCount="5"
-
+    android:paddingLeft="25dp"
+    android:paddingTop="15dp"
     tools:context=".Main4Activity">
 
-    <ImageView android:src="@drawable/i1" android:paddingRight="7dp"/>
-
-    <ImageView android:src="@drawable/i2" android:paddingRight="7dp" />
-
-    <ImageView android:src="@drawable/i3" android:paddingRight="7"/>
-
-    <ImageView android:src="@drawable/i4" />
-
-    <ImageView android:src="@drawable/i5" />
-
-    <ImageView android:src="@drawable/i6" />
-
-    <ImageView android:src="@drawable/i7" />
-
-    <ImageView android:src="@drawable/i8" />
-
-    <ImageView android:src="@drawable/i9" />
-
-    <ImageView android:src="@drawable/i10" />
-
-    <ImageView android:src="@drawable/i11" />
-
-    <ImageView android:src="@drawable/i12" />
-
-    <ImageView android:src="@drawable/i13" />
-
-    <ImageView android:src="@drawable/i14" />
-
-    <ImageView android:src="@drawable/i15" />
-
-    <ImageView android:src="@drawable/i16" />
-
-    <ImageView android:src="@drawable/i17" />
-
-    <ImageView android:src="@drawable/i18" />
+    <ImageView
+        android:src="@drawable/i1"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i2"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i3"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i4"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i5"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i6"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i7"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i8"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i9"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i10"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i11"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i12"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i13"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i14"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
+    <ImageView
+        android:src="@drawable/i15"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        />
 </GridLayout>
